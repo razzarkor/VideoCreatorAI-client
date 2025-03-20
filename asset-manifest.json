@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VideoCreatorAI-client/static/css/main.29e36c73.css",
-    "main.js": "/VideoCreatorAI-client/static/js/main.a994c5be.js",
+    "main.js": "/VideoCreatorAI-client/static/js/main.12d33dcb.js",
     "static/js/453.0a3b8e28.chunk.js": "/VideoCreatorAI-client/static/js/453.0a3b8e28.chunk.js",
     "index.html": "/VideoCreatorAI-client/index.html",
     "main.29e36c73.css.map": "/VideoCreatorAI-client/static/css/main.29e36c73.css.map",
-    "main.a994c5be.js.map": "/VideoCreatorAI-client/static/js/main.a994c5be.js.map",
+    "main.12d33dcb.js.map": "/VideoCreatorAI-client/static/js/main.12d33dcb.js.map",
     "453.0a3b8e28.chunk.js.map": "/VideoCreatorAI-client/static/js/453.0a3b8e28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29e36c73.css",
-    "static/js/main.a994c5be.js"
+    "static/js/main.12d33dcb.js"
   ]
 }
